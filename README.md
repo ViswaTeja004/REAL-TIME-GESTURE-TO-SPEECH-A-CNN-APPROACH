@@ -16,7 +16,8 @@ This project presents a Real-Time Sign Language Translator using Deep Learning (
                                                                             
     python -m streamlit run app.py 
  
-• STEP 5: If u want to test hand sign detection using the camera without the Streamlit interface, use the command below. 
-                                               python main.py 
+• STEP 5: If u want to test hand sign detection using the camera without the Streamlit interface, use the command below.
+
+    python main.py 
                                                
 • STEP 6: To interrupt or stop the process, use CTRL+C or type Q in the terminal. 
